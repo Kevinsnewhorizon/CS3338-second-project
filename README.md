@@ -1,0 +1,1 @@
+This repo is design to help you learn how to fork, clone, merge and log.
