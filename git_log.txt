@@ -1,0 +1,42 @@
+commit 3a55c3adfba706c6de2f592262d4918c7de6bc41
+Merge: c774f5d 592182b
+Author: Kevinsnewhorizon <Kevinsnewhorizon@Gmail.com>
+Date:   Sun Aug 31 12:31:14 2025 -0700
+
+    Resolved merge conflict between main and index-fix
+
+commit 592182b5dc1a83ca1ef2ddfec6f93dc87b996364
+Author: Kevinsnewhorizon <Kevinsnewhorizon@Gmail.com>
+Date:   Sun Aug 31 12:27:15 2025 -0700
+
+    Added favorite game div in index-fix
+
+commit c774f5d08efa9eb90034b57f6c5724f9f4149191
+Author: Kevinsnewhorizon <Kevinsnewhorizon@Gmail.com>
+Date:   Sun Aug 31 12:20:38 2025 -0700
+
+    Added favorite food div in main
+
+commit c7192c0b34e00cea8d425717d681c64789268630
+Author: Kevinsnewhorizon <Kevinsnewhorizon@Gmail.com>
+Date:   Sun Aug 31 12:12:09 2025 -0700
+
+    Added description to README.md
+
+commit 3c1ce8a356529e0342e64fa6dd42c99e5eca8bf9
+Author: Kevinsnewhorizon <Kevinsnewhorizon@Gmail.com>
+Date:   Sun Aug 31 10:53:56 2025 -0700
+
+    Filled in index.html questions
+
+commit ea1c24e3b19a532df125ee5fea39e404df3a4543
+Author: Kevinsnewhorizon <Kevinsnewhorizon@Gmail.com>
+Date:   Sun Aug 31 10:33:30 2025 -0700
+
+    Filled in index.html questions
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
